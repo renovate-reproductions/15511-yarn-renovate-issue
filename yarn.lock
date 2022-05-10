@@ -614,6 +614,11 @@
   dependencies:
     "@types/istanbul-lib-report" "*"
 
+"@types/lodash@0.0.27":
+  version "0.0.27"
+  resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-0.0.27.tgz#e8d6eab68a28a0599aa9c5c422a058c34c58dabc"
+  integrity sha1-6NbqtooooFmaqcXEIqBYw0xY2rw=
+
 "@types/node@*":
   version "17.0.31"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-17.0.31.tgz#a5bb84ecfa27eec5e1c802c6bbf8139bdb163a5d"

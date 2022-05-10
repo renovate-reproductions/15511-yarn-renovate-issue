@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@types/lodash": "0.0.27",
+    "@types/lodash": "0.0.29",
     "jest": "^28.1.0",
     "jest-extended": "1.2",
     "typescript": "^4.6.0"

@@ -10,7 +10,7 @@
     "typescript": "^4.6.0"
   },
   "engines": {
-    "node": "16.12.0",
+    "node": "16.15.0",
     "npm": "please use yarn instead"
   }
 }
